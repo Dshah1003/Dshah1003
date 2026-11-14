@@ -36,4 +36,4 @@ A dashboard that lets staff search and manage alumni records.
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Drashti%20Shah-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drashti-shah-08796b325)
+(https://www.linkedin.com/in/drashti-shah-08796b325)
