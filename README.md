@@ -10,26 +10,23 @@ CS senior at **UT Dallas** (graduating May 2027).
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🪪 [ID Document Fraud Detection] https://github.com/Break-Through-Tech/Telecom-2B-classification-and-fraud-detection-for-sensitive-documents · *Break Through Tech × Verizon*
-Detects tampered passports and driver's licenses in the IDNet dataset using handcrafted forensic image features.
-- Engineered **295 forensic features** (HOG, LBP) to catch 5 tampering methods: blur, copy-move, splice, and text overwrite
-- Benchmarked **13 models**. AdaBoost was best, with **91.5% 5-fold CV accuracy** and **95% recall on fakes**
-- Next milestones: an autonomous AI agent and multi-class classification
+**ID Document Fraud Detection** · *Break Through Tech × Verizon*  
+Classifier that detects tampered identity documents in the IDNet dataset. Built 295 forensic image features and compared 13 models; AdaBoost reached 91.5% cross-validation accuracy and 95% recall on fakes.  
+GitHub link: [Telecom-2B-classification-and-fraud-detection](https://github.com/Break-Through-Tech/Telecom-2B-classification-and-fraud-detection-for-sensitive-documents)
 
 `Python` `scikit-learn` `OpenCV`
 
-### 🎓 [NAF Alumni Tracking System] https://github.com/UTDallasEPICS/naf · *Non-profit*
-A full-stack dashboard that lets staff search, monitor, and manage alumni records for a **500K+ alumni population**.
-- Built the front-end dashboard in Vue.js/Nuxt.js on a 5-person Agile Scrum team
-- Migrated a raw SQL schema to **4 Prisma ORM models** that track **30+ alumni attributes**
+**NAF Alumni Tracking System** · *Non-profit*  
+Dashboard that lets staff search and manage alumni records for a 500K+ alumni population. Built the Vue.js/Nuxt.js front end and migrated the SQL schema to Prisma ORM models.  
+GitHub link: [UTDallasEPICS/naf](https://github.com/UTDallasEPICS/naf)
 
 `Vue.js` `Nuxt.js` `Prisma` `SQLite` `REST APIs`
 
-### 🤖 [Agentic Chatbot]https://github.com/CharithaSj/HackUTDProject· *HackUTD – NVIDIA Challenge*
-Built and orchestrated the full backend of a multi-agent chatbot using NVIDIA Nemotron agents.
-- 🏅 **Special mention from NVIDIA**
+**Agentic Chatbot** · *HackUTD – NVIDIA Challenge*  
+Built the backend of a multi-agent chatbot using NVIDIA Nemotron agents. Received a special mention from NVIDIA.  
+GitHub link: [CharithaSj/HackUTDProject](https://github.com/CharithaSj/HackUTDProject)
 
 `Python` `NVIDIA Nemotron` `Agentic AI`
 
