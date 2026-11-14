@@ -10,15 +10,28 @@ CS senior at **UT Dallas** (graduating May 2027).
 
 ---
 
-## Projects
+## 🚀 Projects
 
-**ID Document Fraud Detection** · *Break Through Tech × Verizon*
-A classifier that detects tampered identity documents in the IDNet dataset.
+### 🪪 [ID Document Fraud Detection] https://github.com/Break-Through-Tech/Telecom-2B-classification-and-fraud-detection-for-sensitive-documents · *Break Through Tech × Verizon*
+Detects tampered passports and driver's licenses in the IDNet dataset using handcrafted forensic image features.
+- Engineered **295 forensic features** (HOG, LBP) to catch 5 tampering methods: blur, copy-move, splice, and text overwrite
+- Benchmarked **13 models**. AdaBoost was best, with **91.5% 5-fold CV accuracy** and **95% recall on fakes**
+- Next milestones: an autonomous AI agent and multi-class classification
+
 `Python` `scikit-learn` `OpenCV`
 
-**NAF Alumni Tracking System** · *Non-profit*
-A dashboard that lets staff search and manage alumni records.
+### 🎓 [NAF Alumni Tracking System] https://github.com/UTDallasEPICS/naf · *Non-profit*
+A full-stack dashboard that lets staff search, monitor, and manage alumni records for a **500K+ alumni population**.
+- Built the front-end dashboard in Vue.js/Nuxt.js on a 5-person Agile Scrum team
+- Migrated a raw SQL schema to **4 Prisma ORM models** that track **30+ alumni attributes**
+
 `Vue.js` `Nuxt.js` `Prisma` `SQLite` `REST APIs`
+
+### 🤖 [Agentic Chatbot]https://github.com/CharithaSj/HackUTDProject· *HackUTD – NVIDIA Challenge*
+Built and orchestrated the full backend of a multi-agent chatbot using NVIDIA Nemotron agents.
+- 🏅 **Special mention from NVIDIA**
+
+`Python` `NVIDIA Nemotron` `Agentic AI`
 
 ---
 
