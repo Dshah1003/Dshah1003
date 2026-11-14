@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Drashti Shah
 
-<!--
-**Dshah1003/Dshah1003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS senior at **UT Dallas** (graduating May 2027).
 
-Here are some ideas to get you started:
+- Software Engineer Co-op at **Honeywell x SWE** · formerly an Application Developer Intern at **IBM**
+- Teaching Assistant for C++ Programming
+- Break Through Tech AI Fellow, working with **Verizon**
+- Most passionate about hackathons, software engineering and AI/ML
+- Lately curious about agentic AI and automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Projects
+
+**ID Document Fraud Detection** · *Break Through Tech × Verizon*
+A classifier that detects tampered identity documents in the IDNet dataset.
+`Python` `scikit-learn` `OpenCV`
+
+**NAF Alumni Tracking System** · *Non-profit*
+A dashboard that lets staff search and manage alumni records.
+`Vue.js` `Nuxt.js` `Prisma` `SQLite` `REST APIs`
+
+---
+
+## Tech Stack
+
+**Languages:** Python · Java · C++ · JavaScript · SQL · HTML/CSS
+
+**AI/ML:** PyTorch · TensorFlow · scikit-learn · LangGraph · OpenCV · AWS SageMaker
+
+**Web & Tools:** React · Next.js · Node.js · Vue.js · Flask · Streamlit · Playwright · Prisma
+
+**Dev:** Git · GitHub · Postman · MySQL Workbench
+
+---
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Drashti%20Shah-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drashti-shah-08796b325)
