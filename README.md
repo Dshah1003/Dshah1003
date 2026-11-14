@@ -48,7 +48,7 @@ GitHub link: [CharithaSj/HackUTDProject](https://github.com/CharithaSj/HackUTDPr
 
 ## Connect With Me
 
-<img src="https://skillicons.dev/icons?i=linkedin" width="18" /> **LinkedIn:** [drashti-shah](https://www.linkedin.com/in/drashti-shah-08796b325)  
-<img src="https://skillicons.dev/icons?i=github" width="18" /> **GitHub:** Dshah1003(https://github.com/Dshah1003)
-<img src="https://skillicons.dev/icons?i=gmail" width="18" /> **Email:** [drashti.intern@gmail.com](mailto:drashti.intern@gmail.com)  
-<img src="https://skillicons.dev/icons?i=vercel" width="18" /> **Portfolio:** [drashti-website.vercel.app](https://drashti-website.vercel.app/)
+ **LinkedIn:** [drashti-shah](https://www.linkedin.com/in/drashti-shah-08796b325)  
+ **GitHub:** Dshah1003 (https://github.com/Dshah1003)
+ **Email:** [drashti.intern@gmail.com](mailto:drashti.intern@gmail.com)  
+ **Portfolio:** [drashti-website.vercel.app](https://drashti-website.vercel.app/)
