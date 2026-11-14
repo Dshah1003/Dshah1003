@@ -44,7 +44,6 @@ GitHub link: [CharithaSj/HackUTDProject](https://github.com/CharithaSj/HackUTDPr
 
 ---
 
-## Connect With Me
 
 ## Connect With Me
 
